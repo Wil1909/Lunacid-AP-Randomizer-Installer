@@ -27,20 +27,20 @@
 
 
 <!-- PROJECT LOGO -->
-<br />
-<!--<div align="center">
+<!--<br />
+<div align="center">
   <a href="https://github.com/Wil1909/Lunacid-AP-Randomizer-Setup">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>-->
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Unofficial Lunacid AP Randomizer Installer</h3>
 
   <p align="center">
-    project_description
+    <!--project_description
     <br />
     <a href="https://github.com/Wil1909/Lunacid-AP-Randomizer-Setup"><strong>Explore the docs »</strong></a>
     <br />
-    <br />
+    <br /> -->
     <!--<a href="https://github.com/Wil1909/Lunacid-AP-Randomizer-Setup">View Demo</a>-->
     ·
     <a href="https://github.com/Wil1909/Lunacid-AP-Randomizer-Setup/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
@@ -80,13 +80,13 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+<!--## About The Project
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>-->
 
 
 <!-- GETTING STARTED -->
