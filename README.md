@@ -184,7 +184,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `[License](https://github.com/Wil1909/Lunacid-AP-Randomizer-Setup/blob/main/LICENSE)` for more information.
+Distributed under the MIT License. See [License](https://github.com/Wil1909/Lunacid-AP-Randomizer-Setup/blob/main/LICENSE) for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
