@@ -56,9 +56,9 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <!--<a href="#about-the-project">About The Project</a> -->
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <!-- <li><a href="#built-with">Built With</a></li> -->
       </ul>
     </li>
     <li>
@@ -184,7 +184,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the MIT License. See `README.md` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
