@@ -29,7 +29,7 @@
 <!-- PROJECT LOGO -->
 <!--<br />
 <div align="center">
-  <a href="https://github.com/Wil1909/Lunacid-AP-Randomizer-Setup">
+  <a href="https://github.com/Wil1909/Lunacid-AP-Randomizer-Installer">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>-->
 
@@ -38,14 +38,14 @@
   <p align="center">
     <!--project_description
     <br />
-    <a href="https://github.com/Wil1909/Lunacid-AP-Randomizer-Setup"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Wil1909/Lunacid-AP-Randomizer-Installer"><strong>Explore the docs »</strong></a>
     <br />
     <br /> -->
-    <!--<a href="https://github.com/Wil1909/Lunacid-AP-Randomizer-Setup">View Demo</a>-->
+    <!--<a href="https://github.com/Wil1909/Lunacid-AP-Randomizer-Installer">View Demo</a>-->
     ·
-    <a href="https://github.com/Wil1909/Lunacid-AP-Randomizer-Setup/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/Wil1909/Lunacid-AP-Randomizer-Installer/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
-    <a href="https://github.com/Wil1909/Lunacid-AP-Randomizer-Setup/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/Wil1909/Lunacid-AP-Randomizer-Installer/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
 
@@ -184,7 +184,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See [License](https://github.com/Wil1909/Lunacid-AP-Randomizer-Setup/blob/main/LICENSE) for more information.
+Distributed under the MIT License. See [License](https://github.com/Wil1909/Lunacid-AP-Randomizer-Installer/blob/main/LICENSE) for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -214,16 +214,16 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/Wil1909/Lunacid-AP-Randomizer-Setup.svg?style=for-the-badge
-[contributors-url]: https://github.com/Wil1909/Lunacid-AP-Randomizer-Setup/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Wil1909/Lunacid-AP-Randomizer-Setup.svg?style=for-the-badge
-[forks-url]: https://github.com/Wil1909/Lunacid-AP-Randomizer-Setup/network/members
-[stars-shield]: https://img.shields.io/github/stars/Wil1909/Lunacid-AP-Randomizer-Setup.svg?style=for-the-badge
-[stars-url]: https://github.com/Wil1909/Lunacid-AP-Randomizer-Setup/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Wil1909/Lunacid-AP-Randomizer-Setup.svg?style=for-the-badge
-[issues-url]: https://github.com/Wil1909/Lunacid-AP-Randomizer-Setup/issues
-[license-shield]: https://img.shields.io/github/license/Wil1909/Lunacid-AP-Randomizer-Setup.svg?style=for-the-badge
-[license-url]: https://github.com/Wil1909/Lunacid-AP-Randomizer-Setup/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/Wil1909/Lunacid-AP-Randomizer-Installer.svg?style=for-the-badge
+[contributors-url]: https://github.com/Wil1909/Lunacid-AP-Randomizer-Installer/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Wil1909/Lunacid-AP-Randomizer-Installer.svg?style=for-the-badge
+[forks-url]: https://github.com/Wil1909/Lunacid-AP-Randomizer-Installer/network/members
+[stars-shield]: https://img.shields.io/github/stars/Wil1909/Lunacid-AP-Randomizer-Installer.svg?style=for-the-badge
+[stars-url]: https://github.com/Wil1909/Lunacid-AP-Randomizer-Installer/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Wil1909/Lunacid-AP-Randomizer-Installer.svg?style=for-the-badge
+[issues-url]: https://github.com/Wil1909/Lunacid-AP-Randomizer-Installer/issues
+[license-shield]: https://img.shields.io/github/license/Wil1909/Lunacid-AP-Randomizer-Installer.svg?style=for-the-badge
+[license-url]: https://github.com/Wil1909/Lunacid-AP-Randomizer-Installer/blob/master/LICENSE.txt
 [product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
