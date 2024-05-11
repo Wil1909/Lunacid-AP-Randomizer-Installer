@@ -41,7 +41,7 @@
     <a href="https://github.com/Wil1909/Lunacid-AP-Randomizer-Setup"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Wil1909/Lunacid-AP-Randomizer-Setup">View Demo</a>
+    <!--<a href="https://github.com/Wil1909/Lunacid-AP-Randomizer-Setup">View Demo</a>-->
     ·
     <a href="https://github.com/Wil1909/Lunacid-AP-Randomizer-Setup/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
