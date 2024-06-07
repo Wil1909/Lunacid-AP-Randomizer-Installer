@@ -120,7 +120,7 @@ This project is not related to Archipelago, BepInEx, or LunacidAPClient in any w
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+Please install all Prerequisites before running the script.
 * Lunacid
   ```sh
   Install Lunacid Game
